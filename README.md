@@ -1,1 +1,1 @@
-
+CRUD Employee Management System Application is a comprehensive and user-friendly software designed to streamline and simplify the process of managing employees within an organization. The application employs the popular CRUD (Create, Read, Update, Delete) operations to provide administrators with full control over employee data, ensuring efficient HR management and enhancing overall organizational productivity.
