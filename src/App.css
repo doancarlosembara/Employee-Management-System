@@ -1,0 +1,41 @@
+/* app.css */
+
+.navbar {
+  background-color: #1b262c;
+  border-bottom: 1px solid #394b59;
+}
+
+/* .navbar input.form-control {
+  max-width: 20%;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-group {
+  max-width: 1200px;
+  width: 100%;
+} */
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 24px;
+  position: absolute;
+  left: 2%;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: 18px;
+  color: #fff;
+}
+
+.active {
+  background-color: #394b59 !important;
+  color: #fff !important;
+}

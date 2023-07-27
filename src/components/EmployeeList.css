@@ -1,0 +1,33 @@
+.navbar input.form-control {
+  max-width: 30%;
+  flex-grow: 1;
+  display: flex;
+  margin-bottom: 5px;
+  align-items: center;
+  justify-content: center;
+}
+
+.edit {
+  margin-right: 10px;
+}
+.input-group {
+  max-width: 400px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.judul {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #808080;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.action {
+  text-align: center;
+}
+.tambah {
+  margin-left: 20px;
+}
